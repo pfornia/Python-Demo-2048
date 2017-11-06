@@ -1,7 +1,9 @@
 # 2048
 
 A simple python implementation of a console-based version of 2048, a popular video game created by Gabriele Cirulli: 
+
 https://itunes.apple.com/us/app/2048/id840919914?mt=8 
+
 https://play.google.com/store/apps/details?id=com.digiplex.game&hl=en
 
 ## Getting Started
