@@ -36,7 +36,7 @@ Python 3
 
 ## Authors
 
-* [**Paul Fornia**](https://github.com/paulfornia)
+* [**Paul Fornia**](https://github.com/pfornia)
 
 <!--
 ## License
